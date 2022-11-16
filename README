@@ -1,0 +1,13 @@
+Welcome to the Fetch & Save Movies App !!!
+
+The general ideea behind this app is to have a way to manage a list of movies.
+As functionalities go, you can add a new movie from the 3 inputs present in the single page app.
+And you could also "fetch" an existing list of movies from a mock API.
+
+The app was developed in React with the help of HTML & CSS and I used Promises to get the content from the Firebase API along with 'async/await' functions.
+
+The purpose behind this app is to just save my favorite movies.
+
+Check out the custom favicon *wink *wink
+
+Hope you enjoy !!!
